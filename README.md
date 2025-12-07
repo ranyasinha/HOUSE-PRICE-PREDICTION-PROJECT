@@ -1,4 +1,5 @@
-House Price Prediction Using Linear Regression
+House Price Prediction Using Linear Regression:
+
 A complete end-to-end Machine Learning project that predicts house prices based on features like rooms, area, bathrooms, age, and location. This project demonstrates data cleaning, EDA, preprocessing, model training, evaluation, and visualization using Python and Scikit-learn.
 
 Project Overview
@@ -10,7 +11,8 @@ Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
 
-Key Steps in the Project
+Key Steps in the Project:
+
 1️) Data Loading
 Load the dataset using Pandas and inspect structure, datatypes, and missing values.
 
